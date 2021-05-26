@@ -2,6 +2,7 @@
 SOLO PARA WINDOWS JSJSJSJJJSJSSJJSJSJSJSJS.js
 
 - lo primero de todo es mirar este gato:
+- <br>
 ![gato ejecutivo](.//gatoejecutivo.png)
 
 vale ya puedes
